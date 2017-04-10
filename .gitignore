@@ -1,3 +1,16 @@
+.vscode/
+.settings/
+.idea/
+.git/
+CMakeFiles/
+.cproject
+.project
+CMakeCache.txt
+Makefile
+*.cmake
+*.cbp
+*.callgrind
+
 # Compiled Object files
 *.slo
 *.lo
